@@ -1,66 +1,21 @@
-/* style.css */
-#buttons-container {
-  display: grid;
-  grid-template-columns: repeat(10, 1fr);
-  grid-gap: 10px;
-  padding: 20px;
-}
-
-button {
-  position: relative;
-  padding: 10px;
-  font-size: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: white;
-  overflow: hidden;
-}
-
-button img {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  object-fit: contain;
-  z-index: 1;
-}
-
-button span {
-  position: relative;
-  z-index: 2;
-  color:#BF0AFF ; /* 設定文字顏色以增加可讀性 */
-}
-
-#controls-container {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 20px;
-}
-
-#controls-container > * {
-  display: flex;
-  flex: 1; /* 使所有子元素等寬 */
- // justify-content: space-between;
-  margin: 0 10px; /* 調整間距以適應所有元件 */
-  font-size: 16px; /* 設定字型大小為20 */
-  padding: 20px;
-  box-sizing: border-box;
-}
-
-#load-data,
-#toggle-update,
-#batch-upload,
-#upload-grade {
-  background-color: #0FC96E; /* 淺綠色背景 */
-  border: none; /* 移除邊框 */
-  padding: 10px 0; /* 增加內距以適應字型大小 */
-  cursor: pointer; /* 鼠標懸停時顯示指針 */
-  color: #ffffff;
-}
-
-#row-selector,
-#assignment-name {
-  padding: 10px; /* 增加內距以適應字型大小 */
-}
+![0](https://github.com/user-attachments/assets/33f18d7a-07d9-4d96-b2d9-15fe18a626f2)
+![15](https://github.com/user-attachments/assets/fdc4b2cb-49a3-4d89-8334-1f365cda79f3)
+![14](https://github.com/user-attachments/assets/cb18012e-62bc-4697-bacc-9009bbe712f5)
+![13](https://github.com/user-attachments/assets/181783a5-ac29-4047-a83e-7dd7cc13bce5)
+![12](https://github.com/user-attachments/assets/0e6703f2-8a16-4c1a-99b7-32a07b7e159f)
+![11](https://github.com/user-attachments/assets/cfc380c6-56a8-4246-a1ca-2580ab0ea4dc)
+![10](https://github.com/user-attachments/assets/46158b1c-6e12-4971-bac0-2099842dd32c)
+![9](https://github.com/user-attachments/assets/182c593d-cbd8-430e-834c-6b166ec71d33)
+![8](https://github.com/user-attachments/assets/8e894fdf-66f8-40ff-883b-e2548cf107d2)
+![7](https://github.com/user-attachments/assets/f321e7bf-cf1c-4ccf-915b-512d3c3ce747)
+![6](https://github.com/user-attachments/assets/0413a270-e1ac-4da2-b6b3-27ad7914328f)
+![5](https://github.com/user-attachments/assets/db4f1292-5010-4ecb-a8be-a891f55c49e1)
+![4](https://github.com/user-attachments/assets/9d7d4f2e-7a33-400f-a607-6f7a11449d2a)
+![3](https://github.com/user-attachments/assets/9d09d3f7-a265-4d3b-baa4-50e890e31448)
+![2](https://github.com/user-attachments/assets/12df99a2-7572-491e-bc65-4e4948a06a68)
+![1](https://github.com/user-attachments/assets/0e61d2e2-fca9-44d8-b61a-2df3251fb8dc)
+![20](https://github.com/user-attachments/assets/f4c6e94b-e7e0-4316-ba83-dd6c6b68330e)
+![19](https://github.com/user-attachments/assets/377b0cb9-9718-4d97-ad17-86053b40e69d)
+![18](https://github.com/user-attachments/assets/51bdaefe-6bd4-4ed2-92cd-17e4b1b79ded)
+![17](https://github.com/user-attachments/assets/dae81cc3-196c-4dff-8b9b-6085d0e7cb56)
+![16](https://github.com/user-attachments/assets/e31f4572-703c-41fd-b96f-d6c4a6273997)
